@@ -52,6 +52,7 @@ main .personagem .imagem{
     font-family: "Rubik";
     line-height: 24px;
     color: white;
+    max-width: 500px;
 }
 
 .conteudo .logo{
